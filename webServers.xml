@@ -1,0 +1,9 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7a9cfcf3-849a-4016-a37b-0152c946edb2" name="index.php" url="http://localhost/Stoked">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
