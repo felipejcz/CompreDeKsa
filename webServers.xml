@@ -4,6 +4,9 @@
       <webServer id="7a9cfcf3-849a-4016-a37b-0152c946edb2" name="index.php" url="http://localhost/Stoked">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="f6a123c1-4223-4783-8b7b-4e0b2870e637" name="compredeksa" url="http://localhost/compredeksa">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
